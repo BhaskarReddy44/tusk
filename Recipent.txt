@@ -7,6 +7,8 @@ pasta
 chicken 
 mutton
 
+Beans
+pizza
 
 Thanks :)
 
